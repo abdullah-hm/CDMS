@@ -1,5 +1,4 @@
-# CDMS
-Covid Diagnostic Management System
+# Covid Diagnostic Management System
 
 Type: Web Application
 
